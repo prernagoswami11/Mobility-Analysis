@@ -1,2 +1,2 @@
 # Mobility-Analysis
-This repository related to cab service analytics.
+This repository is related to cab service analytics.
